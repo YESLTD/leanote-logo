@@ -1,7 +1,12 @@
 # Leanote's Logo
 
 Leanote's logo has been changed to <br>
-<img src="leanote-blue-big-icon-ff.png" width="100px">
+<img src="leanote-blue-big-icon-ff.png" height="100px">
+<br>
+<img src="leanote-icon-en.png" height="100px">
+
+Chinese logo: "蚂蚁笔记"<br>
+<img src="leanote-icon-zh.png" height="100px">
 
 -------
 
